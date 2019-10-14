@@ -1,0 +1,33 @@
+{
+  "editor.minimap.enabled": false,
+  "workbench.colorTheme": "DuoTone Dark Sea",
+  "explorer.confirmDragAndDrop": false,
+  "editor.snippetSuggestions": "top",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "javascript.format.enable": false,
+  "prettier.eslintIntegration": true,
+  "window.zoomLevel": 0,
+  "files.exclude": {
+    "**/*.meta": true
+  },
+  "git.autofetch": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.sideBar.location": "right",
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#1A1A1A",
+    "statusBar.noFolderBackground": "#212121",
+    "statusBar.debuggingBackground": "#263238",
+    "sideBar.background": "#272727",
+    "sideBar.foreground": "#747474",
+    "list.hoverForeground": "#dadada"
+  },
+  "editorLineNumber.foreground": "#41a6d9",
+  "editorLineNumber.activeForeground": "#ff6a00",
+  "terminal.integrated.shell.osx": "/bin/zsh",
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "workbench.iconTheme": "material-icon-theme"
+}
+

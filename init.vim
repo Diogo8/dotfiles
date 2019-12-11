@@ -1,14 +1,24 @@
 call plug#begin()
 
-Plug 'Shougo/deoplete.nvim' 
-Plug 'bling/vim-airline'
 Plug 'tpope/vim-commentary'
 Plug 'scrooloose/nerdtree'
 Plug 'bling/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
 Plug 'fneu/breezy'
 Plug 'scrooloose/nerdtree'
 Plug 'elixir-editors/vim-elixir'
 Plug 'dracula/vim', { 'as': 'dracula' }
+Plug 'kien/ctrlp.vim'
+Plug 'neoclide/coc.nvim'
+Plug 'sheerun/vim-polyglot'
+Plug 'christoomey/vim-tmux-navigator'
+Plug 'vim-ruby/vim-ruby'
+Plug 'andymass/vim-matchup/'
+Plug 'tpope/vim-fugitive'
+Plug 'MaxMEllon/vim-jsx-pretty'
+Plug 'BurntSushi/ripgrep'
+Plug 'junegunn/fzf.vim'
+Plug 'terryma/vim-multiple-cursors'
 
 call plug#end()
 
